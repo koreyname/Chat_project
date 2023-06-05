@@ -1,5 +1,3 @@
-package com.itheima.d9_chat;
-
 import java.io.*;
 import java.net.Socket;
 
